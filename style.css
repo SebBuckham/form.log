@@ -13,7 +13,8 @@ form{
 
 label{
     display:block;
-    margin:10px 20px
+    margin:10px 20px;
+    font-size: 20px;
 }
 
 input{
@@ -24,4 +25,13 @@ button{
     display:block;
     margin:10px 20px;
     margin: 20px auto;
+    font-size: 15px;
+    
+}
+
+button:hover{
+    background-color:black;
+    color:white;
+    width: 134px;
+
 }
